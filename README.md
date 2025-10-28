@@ -1,4 +1,3 @@
-![Lib Man ActivityDiagram1](https://github.com/user-attachments/assets/4f19dcdc-5465-42bc-8d4f-1277357d4e93)# Exp - 2 LIBRARY MANAGEMENT SYSTEM
 # NAME: ISAAC RAJA T
 # REGISTER NUMBER: 212224040123
 
